@@ -1,0 +1,1 @@
+The Gemini Data Exchange provides historical open, high, low, and close(OHLC) prices and volume amount. The data presented shows cyptocurrency prices based in terms of USD and other cryptocurrencies(i.e. BTC in USD compared to ETH in BTC). The data also provides historical trade prices which are prices at which actual trades took place between a buyer and a seller.
