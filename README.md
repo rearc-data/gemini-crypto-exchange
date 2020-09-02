@@ -5,7 +5,7 @@
 Gemini Cryptocurrency Exchange | Crypto Data Download
 ========================= 
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-2fjdtz7q5d3fm](https://aws.amazon.com/marketplace/pp/prodview-2fjdtz7q5d3fm). 
 
 ## Main Overview
 
